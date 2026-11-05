@@ -94,3 +94,4 @@ ddu-super-cup-assets/
 - Assets must be high-resolution transparent PNG or SVG files.
 - Team logos should have a 1:1 square aspect ratio (minimum 256×256 pixels).
 - Do not commit sensitive player documents, private photographs, or credentials.
+
